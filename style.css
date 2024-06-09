@@ -15,7 +15,7 @@ body {
     @apply bg-green-700 shadow-md;
 }
 .btn-lg {
-    @apply h-[64px] leading-[64px] px-28 text-lg;
+    @apply h-[64px] leading-[64px] px-5 text-base;
 }
 .main-title {
     @apply text-[32px]/[120%] lg:mb-5 lg:text-[64px]/[110%] -tracking-[1.5px] lg:-tracking-[4px];
